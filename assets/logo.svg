@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <!-- Container -->
+  <rect width="48" height="48" rx="12" fill="#18382F"/>
+  <!-- Outline -->
+  <rect x="1" y="1" width="46" height="46" rx="11" stroke="#5A7D71" stroke-width="1.5" stroke-opacity="0.4"/>
+  <!-- Shield outline -->
+  <path d="M24 8L34 12V22C34 29 29.5 35 24 38C18.5 35 14 29 14 22V12L24 8Z" fill="#01221A" stroke="#C5EBDC" stroke-width="1.5"/>
+  <!-- Dental / Medical Cross -->
+  <path d="M22 15H26V21H32V25H26V31H22V25H16V21H22V15Z" fill="#FFFFFF"/>
+  <!-- Gold Precision Accent Pip -->
+  <circle cx="24" cy="23" r="2" fill="#F7BD58"/>
+</svg>
